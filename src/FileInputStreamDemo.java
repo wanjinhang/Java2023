@@ -27,7 +27,7 @@ public class FileInputStreamDemo {
             throw new RuntimeException(e);
         }
     }
-
+//    -写入数据到文件
     public static void FileWite(){
 
 
